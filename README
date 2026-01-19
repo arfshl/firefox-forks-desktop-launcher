@@ -1,1 +1,5 @@
 Palemoon, Basilisk, and Waterfox browser linux desktop launcher
+
+singeluser is for single user installation on ~/.local/share/applications
+
+systemwide is for all user installation on /opt
