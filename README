@@ -1,4 +1,12 @@
-Palemoon, Basilisk, and Waterfox browser linux desktop launcher
+Linux desktop launcher for Firefox forks, based on Firefox for Linux Mint desktop file
+
+Currently supports:
+
+- Palemoon
+- Basilisk
+- Waterfox
+- Floorp
+- Zen
 
 singeluser is for single user installation on ~/.local/share/applications
 
